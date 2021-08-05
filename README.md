@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+👨‍💻‍ Engineer
+
+[![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
+[![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=White)](#)
+[![](https://img.shields.io/badge/Vim-2E8B57?style=flat-square&logo=Vim&logoColor=White)](#)
+[![](https://img.shields.io/badge/IDE-Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=White)](#)
+
+
 <!--
 **upengs/upengs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
