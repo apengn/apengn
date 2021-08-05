@@ -6,6 +6,8 @@
 [![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=White)](#)
 [![](https://img.shields.io/badge/Vim-2E8B57?style=flat-square&logo=Vim&logoColor=White)](#)
 [![](https://img.shields.io/badge/IDE-Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=White)](#)
+<img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="100">
+
 
 
 <!--
